@@ -177,7 +177,6 @@ I'm a passionate and results-driven **AI Engineer at Deloitte USI**, dedicated t
       <td width="50%">
         <div align="center">
           <h3>LLM-Powered Knowledge Assistant</h3>
-          <img src="https://cdn3d.iconscout.com/3d/premium/thumb/artificial-intelligence-brain-6412743-5290346.png" width="120" />
           <br/><br/>
           <p>Enterprise-grade RAG system with vector search, realtime data processing, and multi-modal responses</p>
           <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -187,7 +186,6 @@ I'm a passionate and results-driven **AI Engineer at Deloitte USI**, dedicated t
       <td width="50%">
         <div align="center">
           <h3>Multimodal AI Assistant</h3>
-          <img src="https://cdn3d.iconscout.com/3d/premium/thumb/robot-artificial-intelligence-5685899-4736873.png" width="120" />
           <br/><br/>
           <p>Voice-enabled assistant with visual understanding and multilingual capabilities</p>
           <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -199,7 +197,6 @@ I'm a passionate and results-driven **AI Engineer at Deloitte USI**, dedicated t
       <td width="50%">
         <div align="center">
           <h3>Autonomous AI Agent Network</h3>
-          <img src="https://cdn3d.iconscout.com/3d/premium/thumb/robot-hand-holding-gear-5086966-4230061.png" width="120" />
           <br/><br/>
           <p>Self-coordinating AI agents that collaborate to solve complex business problems</p>
           <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -209,7 +206,6 @@ I'm a passionate and results-driven **AI Engineer at Deloitte USI**, dedicated t
       <td width="50%">
         <div align="center">
           <h3>Realtime Data Processing Pipeline</h3>
-          <img src="https://cdn3d.iconscout.com/3d/premium/thumb/data-analysis-5715351-4781266.png" width="120" />
           <br/><br/>
           <p>Scalable system for processing and analyzing streaming data with AI insights</p>
           <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -241,9 +237,7 @@ I'm a passionate and results-driven **AI Engineer at Deloitte USI**, dedicated t
 </div>
 
 <!-- Certification Section with SVG -->
-<div align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/trophy-5115610-4261932.png" width="75" />
-</div>
+
 
 ## 🏅 Key Certifications
 
@@ -268,10 +262,7 @@ I'm a passionate and results-driven **AI Engineer at Deloitte USI**, dedicated t
   </table>
 </div>
 
-<!-- Fun Facts with SVG -->
-<div align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/pink-sparkle-5218090-4354607.png" width="75" />
-</div>
+
 
 ## ✨ AI Fun Facts About Me
 
