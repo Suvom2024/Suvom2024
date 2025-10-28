@@ -149,32 +149,6 @@ I partner with enterprises and startups to create AI solutions that don't just a
 <table>
 <tr>
 <td align="center">
-  
-### 🚀 **ExcelHire Multi-Agent Recruitment Suite**
-<img src="https://img.shields.io/badge/ENTERPRISE-48%25_Faster_Hiring-00D4FF?style=flat-square&labelColor=E0F7FA" width="250"/>
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="200">
-<br/>
-**`5+ Specialized Agents`** | **`2x Response Rates`**
-<br/>
-*Enterprise Talent Intelligence*
-
-</td>
-<td align="center">
-
-### 🧠 **Advanced Multi-Agent Research Hub**
-<img src="https://img.shields.io/badge/RESEARCH-3x_Faster_Analysis-00CED1?style=flat-square&labelColor=E0F7FA" width="250"/>
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200">
-<br/>
-**`Graph-Based Orchestration`** | **`95% Factuality`**
-<br/>
-*Scientific Discovery Engine*
-
-</td>
-</tr>
-<tr>
-<td align="center">
 
 ### 🎓 **ContentAI Multi-Agent Optimizer**
 <img src="https://img.shields.io/badge/CONTENT-5x_Faster_Scoring-6A5ACD?style=flat-square&labelColor=F3E5F5" width="250"/>
